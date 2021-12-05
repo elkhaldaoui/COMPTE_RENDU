@@ -1,9 +1,11 @@
-     _____________________________________________ !  COMPTE RENDU  ! _________________________________________
+                                                                       _____________________________________________ !  COMPTE RENDU  ! _________________________________________
 
 
 DE 29/11 A 05/12 :
 bonjour à tous et à toutes.
 premièrement je vous remercie tous l'equipe de Youcode pour les trois semaine de SAS,vraiment c'est magnifique et extraordinaire.
-apres la setnance de projet fin sas on a continue le travaille mais avec une autre energie,energie de reausit,dans c'est semaine on appris c'set quoi le reseaux informatique,serveur,les luangage sde web...
+apres la setnance de projet fin sas on a continue le travaille mais avec une autre energie,energie de reausit,
+dans c'est semaine on appris c'set quoi le reseaux informatique,serveur,les luangage sde web...
 et pour comprandre tous ca,on a commence par HTML,ici il y a 3 niveux pour la validation les cours(adapté/maitrisé/transformer).
-on a fait le premiere brief dans larbre de competance(brief de Template boutique de jeux en ligne) et apres la validation nous compléter le dexieme brief de (Page d'accueil du magasin de vidéo).
+on a fait le premiere brief dans larbre de competance(brief de Template boutique de jeux en ligne) 
+et apres la validation nous compléter le dexieme brief de (Page d'accueil du magasin de vidéo).
